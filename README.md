@@ -4,7 +4,7 @@ This is my **personal portfolio website**, built using HTML, CSS, and JavaScript
 
 ## 🔗 Live Demo
 
-👉 [View Portfolio](https://yourusername.github.io/portfolio)  
+👉 [View Portfolio](https://lijoraj-p-r.github.io/myportfolio/)  
 _(Replace with your actual deployed link)_
 
 ## 💡 Features
