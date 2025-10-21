@@ -5,38 +5,46 @@ This is my **personal portfolio website**, built using HTML, CSS, and JavaScript
 ## 🔗 Live Demo
 
 👉 [View Portfolio](https://lijoraj-p-r.github.io/myportfolio/)  
-_(Replace with your actual deployed link)_
 
 ## 💡 Features
 
-- Dynamic and interactive layout
-- Mobile-responsive design
-- Project showcase section
-- About Me and Skills section
-- Contact form with basic validation (if any)
-- Resume download (optional)
+
+- 🌗 **Dark / Light Mode:** Seamless theme toggle with system preference detection.  
+- 📱 **Fully Responsive:** Optimized layouts for mobile, tablet, and desktop devices.  
+- ⚡ **Interactive UI:** Smooth animations and engaging user interactions for a dynamic experience.  
+- ✨ **Modern & Minimal Design:** Clean, intuitive interface focused on simplicity and usability.  
 
 ## 🛠 Technologies Used
 
 - HTML5
 - CSS3 / SCSS
 - JavaScript (Vanilla JS or with libraries like jQuery)
-- [Optional] PHP / Node.js for backend form handling
-- [Optional] EmailJS / Formspree for contact forms
-- Hosting via GitHub Pages / Netlify / Vercel
+-  Node.js for backend form handling
+- EmailJS / Formspree for contact forms
+- Hosting via GitHub Pages 
 
 ## 📁 Folder Structure
 
 ```bash
-/portfolio
-│
-├── index.html
-├── /css
-│   └── styles.css
-├── /js
-│   └── main.js
-├── /images
-│   └── ...
-├── /assets
-│   └── resume.pdf (optional)
-└── README.md
+📂 project-root
+ ┣ 📂favicon_io
+ ┃ ┣ 📜android-chrome-192x192.png
+ ┃ ┣ 📜android-chrome-512x512.png
+ ┃ ┣ 📜apple-touch-icon.png
+ ┃ ┣ 📜favicon-16x16.png
+ ┃ ┣ 📜favicon-32x32.png
+ ┃ ┣ 📜favicon.ico
+ ┃ ┗ 📜site.webmanifest
+ ┣ 📂media
+ ┃ ┣ 📜cropped-black-transparent-1.webp
+ ┃ ┣ 📜lijoprofileHD-removebg-preview.png
+ ┃ ┣ 📜Lijoraj.pdf
+ ┃ ┣ 📜profilewithbg.png
+ ┃ ┣ 📜topnavg.png
+ ┃ ┣ 📜white-resume-icon-isolated-long-260nw-1500857411.webp
+ ┃ ┗ 📜yellowbgtrue.png
+ ┣ 📜index.html
+ ┣ 📜README.md
+ ┣ 📜script.js
+ ┗ 📜style.css
+
