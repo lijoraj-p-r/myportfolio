@@ -1,6 +1,6 @@
 # 🌐 Personal Portfolio Website
 
-This is my **personal portfolio website**, built using HTML, CSS, and JavaScript. It is a dynamic website designed to showcase my projects, skills, and contact information.
+A modern, responsive, and interactive portfolio website built with HTML, CSS, and JavaScript, showcasing projects, skills, and achievements with clean design and smooth user experience.
 
 ## 🔗 Live Demo
 
