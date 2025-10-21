@@ -16,12 +16,11 @@ A modern, responsive, and interactive portfolio website built with HTML, CSS, an
 
 ## 🛠 Technologies Used
 
-- HTML5
-- CSS3 / SCSS
-- JavaScript (Vanilla JS or with libraries like jQuery)
--  Node.js for backend form handling
-- EmailJS / Formspree for contact forms
-- Hosting via GitHub Pages 
+- **Frontend:** HTML5, CSS3, JavaScript  
+- **State Management / Interactivity:** Vanilla JS, DOM Manipulation  
+- **Design & Styling:** Responsive Layouts, Flexbox, CSS Grid, Animations  
+- **Optimization:** CSS/JS Minification, Class/ID Obfuscation  
+- **Version Control:** Git, GitHub  
 
 ## 📁 Folder Structure
 
