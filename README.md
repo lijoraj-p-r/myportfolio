@@ -48,3 +48,5 @@ This is my **personal portfolio website**, built using HTML, CSS, and JavaScript
  ┣ 📜script.js
  ┗ 📜style.css
 
+---
+**Disclaimer:** This project uses CSS class hashing and code minification techniques to reduce file size, obscure layout structure, and safeguard the front-end design against unauthorized duplication. All design and code elements are intellectual property of the developer.
