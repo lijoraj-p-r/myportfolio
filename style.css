@@ -642,7 +642,7 @@
  }
 
  .percentage {
-     width: 400px;
+     width: 100%;
      height: 20px;
      background: rgba(255, 255, 255, .05);
      border-radius: 15px;
@@ -652,6 +652,7 @@
      position: relative;
      box-shadow: 0 0 20p 
  }
+
      @media (max-width: 768px) {
     .portfolio-container { padding: 1rem; margin: 1rem; }
     .cert-card { width: 260px; }
