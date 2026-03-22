@@ -177,18 +177,24 @@
  }
 
  .top1 {
-     display: inline-block;
-     padding: 12px 24px;
-     margin: 10px 0 70px 0;
-     font-size: 16px;
-     font-weight: 600;
-     color: #333;
-     border: 2px solid #333;
-     border-radius: 8px;
-     text-decoration: none;
-     transition: all .3s ease;
-     background: #fff
- }
+    display: inline-block;
+    padding: 12px 24px;
+    margin: 10px 10px 70px 0; /* top right bottom left */
+    font-size: 16px;
+    font-weight: 600;
+    color: #333;
+    border: 2px solid #333;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: all .3s ease;
+    background: #fff;
+}
+@media (max-width: 768px) {
+    .top1 {
+        font-size: 14px;
+        padding: 10px 20px;
+    }
+}
 
  .top1:hover {
      background: #0014c4;
