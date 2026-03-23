@@ -467,7 +467,7 @@
      max-width: 1200px;
          padding: 4% 0 0 5%; 
      margin-top: 0%;
-     margin-bottom: 20%;
+     margin-bottom: 9%;
      transition: margin-bottom 1s ease;
      text-align: center
  }
@@ -487,8 +487,6 @@
      flex-wrap: wrap;
      gap: 30px;
      margin-top: 30px;
-     
-
  }
 
  .lijo222 {
@@ -560,7 +558,6 @@
  @media (max-width:768px) {
      .skills-row {
          justify-content: center
-         
      }
 
     .lijo222:hover .tooltip {
